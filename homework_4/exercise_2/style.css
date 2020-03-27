@@ -1,0 +1,15 @@
+.table {
+    width: 800px;
+    height: 800px;
+    border: solid 2px;
+    margin: auto;
+}
+
+.table th{
+border : solid 2px;
+}
+
+.th{
+    background-color: green;
+    height: 20px;
+}
